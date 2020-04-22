@@ -1,0 +1,10 @@
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\Snake\Snake\obj\Debug\Snake.pdb
